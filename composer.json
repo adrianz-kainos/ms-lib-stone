@@ -22,7 +22,7 @@
 		"phix/autoloader": "4.*"
 	},
 	"require": {
-		"phpunit/phpunit": "^4.5",
+		"phpunit/phpunit": "^5.7",
 		"mockery/mockery": "^0.9.4"
 	}
 }
